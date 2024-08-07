@@ -1,6 +1,7 @@
 {
-  "name": "Justin",
-  "country":"America",
-  "age":"20",
-  "array":[name,country,age]
+  "array":[
+    "name": "Justin",
+    "country":"America",
+    "age":"20",
+  ]
 }
