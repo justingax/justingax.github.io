@@ -1,3 +1,6 @@
 {
-  "number": 507770818, "text":"hello", "data": 18193589703, "color":"Pink","size":"1","testD":"Azi: 23"
+  "name": "Justin",
+  "country":"America",
+  "age":"20",
+  "array":[name,country,age]
 }
